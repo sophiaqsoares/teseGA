@@ -5,6 +5,7 @@ import Constants as const
 import random
 
 def main():
+    
     data = readData()
     # population = initializePopulation(data)
     population = [
